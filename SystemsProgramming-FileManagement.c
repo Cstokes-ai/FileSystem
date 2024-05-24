@@ -18,7 +18,7 @@ void choice() {
     char buffer[1000];
     char directory[1000];
     char filepath[1100]; // to accommodate the directory and file name
-    FILE *file, *file2;  // Declare both file pointers correctly
+    FILE *file, *file2;
 
     // Prompt the user to enter the directory path
     printf("Enter the directory path (e.g., C:\\Users\\corne\\Downloads\\GNUManual): ");
