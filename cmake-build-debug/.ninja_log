@@ -1,0 +1,19 @@
+# ninja log v5
+4	166	7381042643978674	CMakeFiles/GNUManual.dir/main.c.obj	3ee3abd65725861
+107	211	7381949862565920	GNUManual.exe	688e911d421be4cf
+3	106	7381949861557867	CMakeFiles/GNUManual.dir/SystemsProgramming-FileManagement.c.obj	cf7fd923e22dc46b
+0	141	7382716068426765	build.ninja	53f25f15892b60bb
+2	213	7382745822516564	CMakeFiles/GNUManual.dir/SystemsProgramming-FileManagement.c.obj	cf7fd923e22dc46b
+214	435	7382745824688598	GNUManual.exe	688e911d421be4cf
+4	160	7382747391150455	CMakeFiles/GNUManual.dir/SystemsProgramming-FileManagement.c.obj	cf7fd923e22dc46b
+161	309	7382747392585810	GNUManual.exe	688e911d421be4cf
+2	85	7382748505186729	CMakeFiles/GNUManual.dir/SystemsProgramming-FileManagement.c.obj	cf7fd923e22dc46b
+85	186	7382748506093759	GNUManual.exe	688e911d421be4cf
+2	94	7382750248731898	CMakeFiles/GNUManual.dir/SystemsProgramming-FileManagement.c.obj	cf7fd923e22dc46b
+94	192	7382750249673787	GNUManual.exe	688e911d421be4cf
+2	106	7382750927402050	CMakeFiles/GNUManual.dir/SystemsProgramming-FileManagement.c.obj	cf7fd923e22dc46b
+107	225	7382750928552805	GNUManual.exe	688e911d421be4cf
+2	95	7382753697775830	CMakeFiles/GNUManual.dir/SystemsProgramming-FileManagement.c.obj	cf7fd923e22dc46b
+95	188	7382753698660029	GNUManual.exe	688e911d421be4cf
+2	95	7382755272764128	CMakeFiles/GNUManual.dir/SystemsProgramming-FileManagement.c.obj	cf7fd923e22dc46b
+96	189	7382755273649932	GNUManual.exe	688e911d421be4cf

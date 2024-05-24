@@ -1,0 +1,3 @@
+C:/Users/corne/Downloads/GNUManual/cmake-build-debug/CMakeFiles/GNUManual.dir
+C:/Users/corne/Downloads/GNUManual/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/corne/Downloads/GNUManual/cmake-build-debug/CMakeFiles/rebuild_cache.dir
